@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Hack Nerd Font'",
+    "security.workspace.trust.untrustedFiles": "open"
+}

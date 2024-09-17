@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace','Mononoki Nerd Font'"
+}

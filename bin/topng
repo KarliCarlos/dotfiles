@@ -1,0 +1,19 @@
+#!/bin/bash
+
+while getopts ":a" option; do
+   case $option in
+      a) 
+	 for filename in $(pwd)/*.webp; do
+	    magick "$filename" "${filename%.*}.png"
+	    rm "$filename"
+	 done
+         exit;;
+     \?) # Invalid option
+         echo "Error: Invalid option"
+         exit;;
+   esac
+done
+
+filename=$1
+magick "$1" "${filename%.*}.png"
+rm "$filename"

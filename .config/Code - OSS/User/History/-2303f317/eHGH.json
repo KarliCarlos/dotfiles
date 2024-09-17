@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace,'ProFont'",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ]
+}

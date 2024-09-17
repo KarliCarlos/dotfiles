@@ -1,0 +1,35 @@
+2024-09-15 17:07:05.328 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-09-15 17:07:05.467 [info] Started local extension host with pid 1408.
+2024-09-15 17:07:05.651 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at ii.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:187:36910)
+    at ii.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:187:35279)
+    at ui.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:6697)
+    at me.ad (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2337:69425)
+    at me.Zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2337:69284)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2337:68573
+    at Set.forEach (<anonymous>)
+    at me.Xc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2337:68556)
+    at d.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2337:50383)
+    at l.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:949)
+    at x.zb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2321:28147)
+    at x.tb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2321:25249)
+    at d.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2321:15128)
+    at l.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:949)
+    at c.f (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:700:2448)
+    at c.f (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1474:7200)
+    at d.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:700:2271)
+    at l.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:802)
+    at l.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:100:1018)
+    at f.deltaConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:676:11035)
+    at u.a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1748:14178)
+    at u.d (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1748:1567)
+    at u.acceptUsers (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1748:1500)
+    at V.Hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3263:5882)
+    at _.Eb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3263:4860)
+    at _.jb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3262:25184)
+    at _.ib (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3262:24028)
+2024-09-15 17:07:06.298 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-09-15 17:07:10.134 [info] [perf] Render performance baseline is 22ms

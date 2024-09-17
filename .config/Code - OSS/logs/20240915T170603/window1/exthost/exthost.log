@@ -1,0 +1,14 @@
+2024-09-15 17:06:05.201 [info] Extension host with pid 1119 started
+2024-09-15 17:06:05.201 [info] Skipping acquiring lock for /home/Karl/.config/Code - OSS/User/workspaceStorage/577a6017dff9b586969190a1093167c7.
+2024-09-15 17:06:05.303 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-15 17:06:05.419 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-15 17:06:05.429 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-15 17:06:05.451 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-15 17:06:05.493 [info] Eager extensions activated
+2024-09-15 17:06:05.514 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-15 17:06:05.517 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-15 17:06:43.537 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-15 17:06:43.545 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-15 17:06:43.561 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-15 17:06:59.055 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-15 17:06:59.060 [info] Extension host with pid 1119 exiting with code 0

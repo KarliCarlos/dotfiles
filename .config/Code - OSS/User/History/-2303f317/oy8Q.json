@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ]
+}

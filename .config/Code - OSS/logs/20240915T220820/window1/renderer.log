@@ -1,0 +1,11 @@
+2024-09-15 22:08:21.495 [info] Started local extension host with pid 26002.
+2024-09-15 22:08:22.692 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/usr/share/sddm/themes/corners/theme.conf' (Error: File Modified Since) file:///usr/share/sddm/themes/corners/theme.conf
+2024-09-15 22:08:24.333 [info] [perf] Render performance baseline is 23ms
+2024-09-15 22:14:14.494 [error] Unable to read file '/usr/share/sddm/themes/corners/theme.conf' (Error: File not modified since): Error: Unable to read file '/usr/share/sddm/themes/corners/theme.conf' (Error: File not modified since)
+    at r.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:673:19341)
+    at r.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:673:19227)
+    at async p.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:35620)
+    at async p.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:35377)
+    at async P.Db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2455:12240)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2455:10652)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:31399

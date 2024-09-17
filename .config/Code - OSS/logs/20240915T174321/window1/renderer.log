@@ -1,0 +1,2 @@
+2024-09-15 17:43:22.100 [info] Started local extension host with pid 1832.
+2024-09-15 17:43:23.144 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/usr/share/sddm/themes/corners/theme.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/sddm/themes/corners/theme.conf') file:///usr/share/sddm/themes/corners/theme.conf
